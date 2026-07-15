@@ -177,14 +177,14 @@ Contributions are welcome! Please fork the repository, build on a feature branch
 
 ## 👨‍💻 Author
 
-**Bharath Raj**
+**Karthik S Kulal**
 
-GitHub: [Bharathrajzero](https://github.com/Bharathrajzero)
+GitHub: [Karthik S Kulal] https://github.com/kulalkarthik013-wq)
 
 ---
 
 ## 📝 Compliance & Attribution
 
 * **Distribution Engine:** Internal Proprietary Platform
-* **System Operations Framework:** Engineered and Maintained by **AlphaGroup** © 2026
-* **License:** This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup.
+* **System Operations Framework:** Engineered and Maintained by **Karthik S Kulal** © 2026
+* **License:** This project is licensed under the MIT License © 2026 Karthik S Kulal
