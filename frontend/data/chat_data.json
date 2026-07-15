@@ -1,0 +1,13 @@
+{
+    "doctors": [
+        {
+            "username": "Dr.Bharath",
+            "password": "152004",
+            "name": "Dr. Bharath",
+            "specialty": "Cardiologist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Kankanady"
+        }
+    ]
+}        

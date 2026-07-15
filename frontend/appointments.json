@@ -1,0 +1,13 @@
+{
+    "APT-4B4DCAEB": {
+        "appointment_id": "APT-4B4DCAEB",
+        "patient": "bharathraj0",
+        "doctor": "Dr. Bharath (Cardiologist)",
+        "state": "Karnataka",
+        "city": "Mangaluru",
+        "location": "Kankanady",
+        "date": "2025-12-05",
+        "time": "11:45 AM",
+        "status": "Approved"
+    }
+}
